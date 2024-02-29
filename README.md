@@ -1,4 +1,4 @@
-# visualization-atttention-map
+# visualization-attention-map
 
 last block, mean of twelve heads
 
